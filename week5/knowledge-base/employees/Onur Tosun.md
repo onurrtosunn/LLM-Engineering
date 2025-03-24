@@ -1,4 +1,4 @@
-# Emily Carter – Yapay Zekâ Mühendisi
+# Onur Tosun – Yapay Zekâ Mühendisi
 
 ## Genel Bilgiler  
 - **Doğum Tarihi:** 1 Ocak 1997  
