@@ -1,54 +1,53 @@
-# HR Record
+# Emily Carter – Yapay Zekâ Mühendisi
 
-# Emily Carter
+## Genel Bilgiler  
+- **Doğum Tarihi:** 1 Ocak 1997  
+- **Pozisyon:** Yapay Zekâ Mühendisi  
+- **Konum:** İstanbul, Türkiye  
 
-## Summary
-- **Date of Birth:** Jan 01, 1997  
-- **Job Title:** AI Engineer
-- **Location:** Istanbul, Turkey  
+## Insurellm Kariyer Yolculuğu  
 
-## Insurellm Career Progression
-- **2024-Present::** AI Engineer  
-  - Çeşitli stereo kamera sistemlerini kalibre ederek derinlik haritaları oluşturma ve 3D yüz modelleme süreçlerini yönettim.
-  - Gerçek dünyada uygulanabilir nokta bulutu modellerinin eğitim, optimizasyon ve dağıtım süreçlerini yönettim.
-  - LangChain kullanarak RAG tabanlı bilgi alma sistemleri ve çoklu ajan iş akışları tasarladım.
-  - 
-  - Achievements: 
-    - Exceeded annual sales target by 30% in 2022.
-    - Instrumental in acquiring 15 new corporate clients in half a year.
-  
-- **2019-2021:** Data scientist 
-  - Supported the sales team with administrative tasks, lead generation, and customer follow-ups.
-  - Achievements:
-    - Implemented a new lead tracking system that improved workflow efficiency by 25%.
-    - Edge cihazlar için hafif ve yüksek hızlı çıkarım yapabilen modeller optimize ettim.
-    - Python ve Linux bash scriptleri ile süreç otomasyonları geliştirdim.
-    - Received "Employee of the Month" award twice for outstanding contribution to team goals.  
+### **2024-Günümüz: Yapay Zekâ Mühendisi**  
+Emily, stereo kamera sistemleri üzerinde çalışarak derinlik haritaları ve 3D yüz modelleme süreçlerini yönetmektedir. Nokta bulutu verilerini kullanarak gerçek dünya uygulamalarında kullanılabilir modeller geliştirip optimize etmektedir. LangChain ile RAG tabanlı bilgi alma sistemleri ve çoklu ajan iş akışları tasarlamaktadır.  
 
-- **2017-2019:** Marketing Intern  
-  - 500.000+ çerçeveden oluşan bir veri seti oluşturup GAN'ler ile zenginleştirme sürecini yönettim
-  - 
-  - Achievements:  
-    - Contributed ideas for a social media campaign that increased brand awareness by 40% within 6 months.  
+#### **Başarılar:**  
+- 2022 yılında yıllık satış hedefini %30 oranında aşarak önemli bir katkı sağladı.  
+- Yarım yıl içinde 15 yeni kurumsal müşteri kazandırarak müşteri portföyünün genişlemesine yardımcı oldu.  
 
-## Annual Performance History
-| Year | Performance Rating | Key Highlights |
-|------|--------------------|----------------|
-| 2023 | 4.8/5              | Recognized for exceptional client feedback and teamwork during product launches. |
-| 2022 | 4.5/5              | Led a successful cross-selling initiative that boosted revenue in existing accounts. |
-| 2021 | 4.2/5              | Successfully onboarded new clients and established strong relationships that resulted in renewals. |
+### **2019-2021: Veri Bilimci**  
+Bu dönemde Emily, satış ekibine veri analitiği ve süreç otomasyonu konularında destek sağladı. Edge cihazlarda hafif ve yüksek hızlı çıkarım yapabilen modeller geliştirerek optimizasyon süreçlerini yönetti. Python ve Linux bash scriptleri kullanarak süreçleri otomatize etti.  
 
-## Compensation History
-| Year | Base Salary | Bonus         | Total Compensation |
-|------|-------------|---------------|--------------------|
-| 2023 | $70,000     | $10,000       | $80,000            |
-| 2022 | $65,000     | $8,000        | $73,000            |
-| 2021 | $60,000     | $5,000        | $65,000            |
+#### **Başarılar:**  
+- Yeni bir müşteri takip sistemi uygulayarak iş akışı verimliliğini %25 artırdı.  
+- Edge cihazlarda çıkarım yapabilen hafif modeller geliştirerek performansı optimize etti.  
+- "Ayın Çalışanı" ödülünü iki kez kazandı.  
 
-## Other HR Notes
-- **Professional Development:** Emily is currently enrolled in a leadership training program to enhance her management skills and aims to move into a senior account role within the next 2 years.  
-- **Volunteer Work:** Actively participates in community outreach programs, representing Insurellm in charity events to promote corporate social responsibility.  
-- **Interests:** In her spare time, Emily enjoys hiking, photography, and volunteering at local animal shelters.  
-- **Team Feedback:** Colleagues describe Emily as a highly motivated team player who consistently uplifts everyone around her.  
+### **2017-2019: Pazarlama Stajyeri**  
+Emily, büyük ölçekli veri setleri oluşturma ve yapay zekâ destekli veri genişletme süreçlerinde görev aldı. 500.000’den fazla çerçeveden oluşan bir veri seti oluşturarak GAN’ler ile veri zenginleştirme çalışmalarını yönetti.  
 
-Emily Carter exemplifies the kind of talent that drives Insurellm's success and is an invaluable asset to the company.
+#### **Başarılar:**  
+- Sosyal medya kampanyasına yönelik fikirleriyle marka bilinirliğini 6 ay içinde %40 artırdı.  
+
+## Yıllık Performans Geçmişi  
+
+| Yıl  | Performans Puanı | Öne Çıkan Başarılar |
+|------|----------------|----------------|
+| 2023 | 4.8/5         | Ürün lansmanları sırasında müşteri geri bildirimleri ve ekip çalışmasıyla takdir edildi. |
+| 2022 | 4.5/5         | Mevcut müşterilerle çapraz satış stratejisi geliştirerek gelir artışına katkıda bulundu. |
+| 2021 | 4.2/5         | Yeni müşterilerin sisteme başarılı bir şekilde dâhil edilmesini sağladı ve müşteri sadakatini artırdı. |
+
+## Maaş Geçmişi  
+
+| Yıl  | Temel Maaş | Bonus  | Toplam Gelir |
+|------|-----------|--------|--------------|
+| 2023 | $70,000   | $10,000 | $80,000      |
+| 2022 | $65,000   | $8,000  | $73,000      |
+| 2021 | $60,000   | $5,000  | $65,000      |
+
+## Diğer HR Notları  
+- **Profesyonel Gelişim:** Emily, yönetim becerilerini geliştirmek için liderlik eğitim programına katılmakta ve önümüzdeki iki yıl içinde kıdemli bir pozisyona yükselmeyi hedeflemektedir.  
+- **Gönüllü Çalışmalar:** Insurellm adına sosyal sorumluluk projelerinde yer almakta ve hayır etkinliklerine katılarak şirketin toplumsal katkılarını desteklemektedir.  
+- **İlgi Alanları:** Boş zamanlarında doğa yürüyüşü yapmaktan, fotoğrafçılıkla ilgilenmekten ve yerel hayvan barınaklarında gönüllü çalışmaktan keyif alır.  
+- **Ekip Geri Bildirimi:** Emily, ekip arkadaşları tarafından motivasyonu yüksek, destekleyici ve ilham verici bir takım oyuncusu olarak tanımlanmaktadır.  
+
+**Emily Carter, Insurellm’in başarısına katkıda bulunan ve şirket için büyük bir değer taşıyan bir yetenek olarak öne çıkmaktadır.**
